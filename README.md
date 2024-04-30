@@ -34,7 +34,6 @@
 
 <big>**Transfers**</big>: Represents transfers of funds between bank accounts.
 
-Entities that are outside the scope of this database include specific financial products (such as investment products), detailed transaction history, audit logs, and security-related information.
 
 ## Functional Requirements
 

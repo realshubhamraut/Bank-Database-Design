@@ -3,7 +3,6 @@
 ### By Shubham Raut
 
 
-#### Video overview: - coming soon (will update link here)
 
 
 ## Scope
